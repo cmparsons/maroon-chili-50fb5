@@ -275,7 +275,7 @@ sections:
       subtitle:
         textAlign: center
       text:
-        textAlign: justify
+        textAlign: right
     type: GenericSection
   - type: GenericSection
     title:
