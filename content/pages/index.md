@@ -274,6 +274,8 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+      text:
+        textAlign: right
     type: GenericSection
   - type: GenericSection
     title:
